@@ -1,0 +1,21 @@
+From 8e7c3293fa5397e4f0beffefea9fbe1b38fdeff4 Mon Sep 17 00:00:00 2001
+From: "@vini1107" <willgner.ferreira@gmail.com>
+Date: Thu, 19 Jul 2018 15:36:08 +0000
+Subject: [PATCH] joao.txt criado online com Bitbucket
+
+---
+ teste/joao.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 teste/joao.txt
+
+diff --git a/teste/joao.txt b/teste/joao.txt
+new file mode 100644
+index 0000000..bb8abfc
+--- /dev/null
++++ b/teste/joao.txt
+@@ -0,0 +1 @@
++teste
+\ No newline at end of file
+-- 
+2.18.0.windows.1
+

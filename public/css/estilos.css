@@ -1,0 +1,130 @@
+.btn-primary{
+    background-color:#125cac !important;
+    border-color:#125cac !important;
+    color:#fff!important;
+}
+
+.navbar ,.nav{
+    background-color:#0d437e !important;
+    color:#063370;  
+}
+.logo-mini ,.logo{
+    background-color:#0d437e !important;  
+}
+
+.sidebar-toggle:hover{
+    background-color:#10549d !important;  
+}
+
+
+
+.skin-blue .sidebar-menu>li.active>a{
+    border-left-color:#10549d !important;
+}
+
+
+.btn-info{
+    background-color:#125cac !important;
+    border-color:#125cac !important;
+    color:#fff!important;
+}
+
+.panel-heading{
+    
+    border-color:#125cac !important;
+    background-color: #cee1fc !important;
+    color:#125cac!important;
+}
+
+.panel-info{
+    
+    border-color:#084290 !important;
+   
+}
+
+.dados{
+    color:#125cac !important;  
+}
+
+
+.redessociais{
+    color:#125cac !important;    
+}
+
+.inputgerais{
+    
+    border-top:none;
+    border-right:none;
+    border-left:none;
+}
+
+.selectgerais {
+    border-bottom-color: #125cac; /* borda sólida */
+  
+    
+}
+
+input[type="text"]{
+   /* border-bottom:2px solid #562a62 !important;*/ /* borda sólida */
+    border-top:none;
+    border-right:none;
+    border-left:none;
+}
+
+input[type="text"]:focus{
+    border-bottom:2px solid #125cac !important; /* borda sólida */
+}
+
+
+input[type="email"]{
+    /* border-bottom:2px solid #562a62 !important;*/ /* borda sólida */
+     border-top:none;
+     border-right:none;
+     border-left:none;
+ }
+ 
+ input[type="email"]:focus{
+     border-bottom:2px solid #125cac !important; /* borda sólida */
+ }
+
+
+input[type="number"]{
+    border-top:none;
+    border-right:none;
+    border-left:none;
+}
+
+input[type="email"]:focus{
+    border-bottom:2px solid #125cac !important; /* borda sólida */
+}
+
+
+input[type="email"]{
+    border-top:none;
+    border-right:none;
+    border-left:none;
+}
+
+input[type="number"]:focus{
+    border-bottom:2px solid #125cac !important; /* borda sólida */
+}
+select{
+    border-bottom-color: #125cac; /* borda sólida */
+}
+
+input[type="date"]{
+    /* border-bottom:2px solid #562a62 !important;*/ /* borda sólida */
+     border-top:none;
+     border-right:none;
+     border-left:none;
+ }
+
+input[type="date"]:focus{
+    border-bottom:2px solid #125cac !important; /* borda sólida */
+}
+
+
+
+.fa-spinner {
+  color: #072240!important;
+}
